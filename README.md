@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shehanjayaranga
 - 👀 I’m interested in Java , Css , html , Java script , python
-- 🌱 I’m currently learning  Java
+- 🌱 I’m currently learning  Web frameworks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
